@@ -1,6 +1,5 @@
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
-import org.mockito.Mockito;
 
 import java.util.ArrayList;
 import java.util.List;
